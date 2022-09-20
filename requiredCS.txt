@@ -1,0 +1,10 @@
+Comp151 : Computer Science I
+Comp152 : Computer Science II
+Comp206 : Introduction to Computer Organization
+Comp250 : Data Structures and Algorithms
+Comp340 : Organization of Programming Languages
+Comp350 : Operating Systems
+Comp390 : Software Engineering
+Comp430 : Computer Networks
+Comp435 : Analysis of Algorithms
+Comp490 : Senior Design and Development
